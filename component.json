@@ -1,16 +1,14 @@
 {
-  "name": "noflo-runtime-iframe",
-  "description": "NoFlo runtime for execution inside an iframe",
-  "author": "Henri Bergius <henri.bergius@iki.fi>",
-  "repo": "noflo/noflo-runtime-iframe",
+  "name": "noflo-runtime-iframe-carneades",
+  "description": "NoFlo runtime for execution of Carneades inside an iframe",
+  "author": "Andreas C. Osowski <andreas.osowski@fokus.fraunhofer.de>",
+  "repo": "wellaged/noflo-runtime-iframe-carneades",
   "version": "0.1.0",
   "keywords": [
   ],
   "dependencies": {
     "noflo/noflo": "*",
-    "noflo/noflo-runtime-base": "*",
-    "noflo/noflo-core": "*",
-    "noflo/noflo-flow": "*"
+    "noflo/noflo-runtime-base": "*"
   },
   "scripts": [
     "index.js"
