@@ -1,8 +1,8 @@
 {
-  "name": "noflo-runtime-iframe-carneades",
+  "name": "noflo-runtime-carneades",
   "description": "NoFlo runtime for execution of Carneades inside an iframe",
   "author": "Andreas C. Osowski <andreas.osowski@fokus.fraunhofer.de>",
-  "repo": "wellaged/noflo-runtime-iframe-carneades",
+  "repo": "wellaged/noflo-runtime-carneades",
   "version": "0.1.0",
   "keywords": [
   ],

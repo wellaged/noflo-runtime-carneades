@@ -1,5 +1,5 @@
 {
-  "name": "noflo-runtime-iframe-carneades",
+  "name": "noflo-runtime-carneades",
   "description": "NoFlo runtime for execution of Carneades inside an iframe",
   "version": "0.1.0",
   "author": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wellaged/noflo-runtime-iframe-carneades.git"
+    "url": "git://github.com/wellaged/noflo-runtime-carneades.git"
   },
   "licenses": [
     {
